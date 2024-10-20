@@ -15,41 +15,15 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
-								src="./solytics-partners-logo.svg"
-								alt="Solytics Partners"
+								src="./kotak-logo.webp"
+								alt="twitter"
 								className="work-image"
 							/>
-							<div className="work-title">Solytics Partners</div>
+							<div className="work-title">Kotak Mahindra Bank</div>
 							<div className="work-subtitle">
-								Software Engineer Intern
+								Senior Software Engineer
 							</div>
-							<div className="work-duration">Jan 2020 - Dec 2020</div>
-						</div>
-
-						<div className="work">
-							<img
-								src="./cred-logo.png"
-								alt="twitter"
-								className="work-image-dark"
-							/>
-							<div className="work-title">CRED</div>
-							<div className="work-subtitle">
-								Backend Engineer Intern
-							</div>
-							<div className="work-duration">Jan 2021 - July 2021</div>
-						</div>
-
-						<div className="work">
-							<img
-								src="./cred-logo.png"
-								alt="twitter"
-								className="work-image-dark"
-							/>
-							<div className="work-title">CRED</div>
-							<div className="work-subtitle">
-								Backend Engineer
-							</div>
-							<div className="work-duration">July 2021 - Oct 2022</div>
+							<div className="work-duration">Jun 2024 - Present</div>
 						</div>
 
 						<div className="work">
@@ -67,17 +41,43 @@ const Works = () => {
 
 						<div className="work">
 							<img
-								src="./kotak-logo.webp"
+								src="./cred-logo.png"
 								alt="twitter"
-								className="work-image"
+								className="work-image-dark"
 							/>
-							<div className="work-title">Kotak Mahindra Bank</div>
+							<div className="work-title">CRED</div>
 							<div className="work-subtitle">
-								Senior Software Engineer
+								Backend Engineer
 							</div>
-							<div className="work-duration">Jun 2024 - Present</div>
+							<div className="work-duration">July 2021 - Oct 2022</div>
 						</div>
 
+						<div className="work">
+							<img
+								src="./cred-logo.png"
+								alt="twitter"
+								className="work-image-dark"
+							/>
+							<div className="work-title">CRED</div>
+							<div className="work-subtitle">
+								Backend Engineer Intern
+							</div>
+							<div className="work-duration">Jan 2021 - July 2021</div>
+						</div>
+
+
+						<div className="work">
+							<img
+								src="./solytics-partners-logo.svg"
+								alt="Solytics Partners"
+								className="work-image"
+							/>
+							<div className="work-title">Solytics Partners</div>
+							<div className="work-subtitle">
+								Software Engineer Intern
+							</div>
+							<div className="work-duration">Jan 2020 - Dec 2020</div>
+						</div>
 					</div>
 				}
 			/>
